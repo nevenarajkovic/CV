@@ -1,0 +1,3 @@
+Zadatak 1: HTML
+
+Potrebno je napraviti HTML stranicu koja će izgledati kao vaš CV. Stranica mora biti responsive. Koristiti Bootstrap kod realizacije.
