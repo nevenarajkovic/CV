@@ -1,20 +1,21 @@
 # CV Website (HTML + Bootstrap)
 
-Responsive CV/portfolio stranica napravljena kao statički sajt koristeći **HTML5** i **Bootstrap 5**.  
-Cilj projekta je čist i pregledan prikaz osnovnih informacija, veština i projekata u formi online CV-a.
+A responsive CV/portfolio website built using **HTML5** and **Bootstrap 5**.  
+The purpose of this project is to present personal information, skills, and projects in a clean and structured online CV format.
 
 ## Features
-- Fully responsive layout (mobile / tablet / desktop)
-- Bootstrap grid system i komponente (bez dodatnih frameworka)
-- Sekcije za osnovne informacije, skills, projekte i kontakt
-- Ikonice (Bootstrap Icons)
+- Fully responsive design (mobile, tablet, desktop)
+- Built with Bootstrap 5 grid system and components
+- Clean and minimal layout
+- Sections for profile, skills, projects, and contact
+- Bootstrap Icons integration
 
-## Technologies
+## Technologies Used
 - HTML5
 - Bootstrap 5
 - Bootstrap Icons
 
-## How to run locally
-1. Clone repository:
+## How to Run Locally
+1. Clone the repository:
    ```bash
-   git clone https://github.com/USERNAME/REPO_NAME.git
+   git clone https://github.com/USERNAME/REPOSITORY-NAME.git
